@@ -1,4 +1,4 @@
-*Code book
+# Code book
 Training or Test
    Training or Test subject
    *Train: Subject is a part of training set
