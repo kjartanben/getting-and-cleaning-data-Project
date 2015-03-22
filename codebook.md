@@ -24,7 +24,7 @@ tBodyAcc-std()-Y
    - Y axis time domain signal of body acceleration from the accelerometer.
 
 tBodyAcc-std()-Z
-   Z axis time domain signal of body acceleration from the accelerometer.
+   - Z axis time domain signal of body acceleration from the accelerometer.
 
 tGravityAcc-mean()-X
    - X axis time domain signal of gravity acceleration from the accelerometer.
