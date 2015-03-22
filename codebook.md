@@ -1,4 +1,9 @@
 # Code book
+
+## Transformations
+A variable which says if the subject belongs to the training or test set has been added. 
+
+## Variables
 Training or Test: *Training or Test subject*
    - Train: Subject is a part of training set
    - Test: Subject is a part of training set
