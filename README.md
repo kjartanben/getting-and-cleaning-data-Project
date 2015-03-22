@@ -7,4 +7,6 @@ The run_analysis.r scripts has code for merging the test and train dataset.
 
 The resulting data frame is called *all.res*
 
-Another tidy data frame is made containing average value each variable for each activity and each subject.
+For explanation see codebook.md
+
+Another tidy data frame *tidy.average* made containing average value of each variable for each activity and each subject.
